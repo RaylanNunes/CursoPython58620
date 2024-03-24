@@ -60,4 +60,4 @@ O script realizará as etapas do pipeline conforme descrito acima.
 
 GitHub Repository
 
-O código fonte do projeto está disponível em https://github.com/RaylanNunes/CursoPython58620/blob/main/Entrega_Parcial_1.ipynb 
+O código fonte do projeto está disponível em https://github.com/RaylanNunes/CursoPython58620/blob/main/Entrega_Final.ipynb
