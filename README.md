@@ -40,12 +40,21 @@ Implementação de um sistema de alerta para notificar em caso de falhas durante
 Biblioteca utilizada: plyer
 
 Requisitos de Configuração
+
 É necessário configurar um ambiente virtual para o projeto.
+
 Os pacotes necessários estão listados no arquivo requirements.txt.
+
 Fluxo de Execução
+
 Ativar o ambiente virtual.
+
 Instalar as dependências listadas no arquivo requirements.txt.
+
 Executar o script pipeline.py.
+
 O script realizará as etapas do pipeline conforme descrito acima.
+
 GitHub Repository
+
 O código fonte do projeto está disponível em https://github.com/RaylanNunes/CursoPython58620/blob/main/Entrega_Parcial_1.ipynb 
