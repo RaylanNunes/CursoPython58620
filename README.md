@@ -26,6 +26,7 @@ Conversão para DataFrame
 Bibliotecas utilizadas: pandas
 
 3. Armazenamento de Dados
+
 Os dados tratados são armazenados em um banco de dados SQL Server para posterior análise e consulta.
 
 Banco de dados: SQL Server
@@ -35,6 +36,7 @@ Biblioteca utilizada: pyodbc
 Nome da tabela: Bancos
 
 4. Sistema de Alerta
+
 Implementação de um sistema de alerta para notificar em caso de falhas durante o processo de extração de dados da API.
 
 Biblioteca utilizada: plyer
@@ -54,6 +56,7 @@ Instalar as dependências listadas no arquivo requirements.txt.
 Executar o script pipeline.py.
 
 O script realizará as etapas do pipeline conforme descrito acima.
+
 
 GitHub Repository
 
